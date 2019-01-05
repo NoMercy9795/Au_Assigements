@@ -1,0 +1,70 @@
+body{
+	background-image: url("bk.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+}
+.simple form{
+	text-align: center;
+	margin :100px 300px;
+}
+#registration{
+	width: 50%;
+	background-color: #051009;
+	opacity: 0.9;
+	padding:50px 0px;
+}
+#button1{
+	width:250px;
+	padding:10px;
+	border-radius:5px; 
+}
+#button2{
+	width:250px;
+	padding:10px;
+	border-radius:5px; 
+}
+#button3{
+	width:250px;
+	padding:10px;
+	border-radius:5px; 
+}
+#date{
+	width:250px;
+	padding:10px;
+	border-radius:5px; 
+}
+#phonecode{
+	outline: 0px;
+	width: 50px;
+	padding: 10px;
+	border-radius:5px ;
+
+}
+#male{
+	outline: 0px;
+	width: 50px;
+	padding: 10px;
+	border-radius:5px ;
+	color: white;
+
+}
+#female{
+	outline: 0px;
+	width: 50px;
+	padding: 10px;
+	border-radius:5px ;
+	color: white;
+
+}
+#phone{
+	outline: 0px;
+	width: 200px;
+	padding: 10px;
+	border-radius: 5px ;
+}
+#but{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+    background-color: blue;
+}
